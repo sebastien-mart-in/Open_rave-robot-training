@@ -23,7 +23,7 @@
   <Manipulator name="gripper">
     <base>link0</base>
     <effector>robotiq_coupler</effector>
-    <translation>0 0 0.144</translation>
+    <translation>0 0 0.158</translation>
     <joints>robotiq_85_left_knuckle_joint</joints>
     <closingdirection>1 1 1 0</closingdirection>
     <direction>0 0 1</direction>
@@ -33,7 +33,7 @@
   <Manipulator name="denso_robotiq_85_gripper">
     <base>link0</base>
     <effector>robotiq_coupler</effector>
-    <translation>0 0 0.144</translation>
+    <translation>0 0 0.158</translation>
     <joints>robotiq_85_left_knuckle_joint</joints>
     <closingdirection>1 1 1 0</closingdirection>
     <direction>0 0 1</direction>
